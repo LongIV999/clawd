@@ -92,6 +92,38 @@ Wise & Friendly Mentor - thông thái nhưng gần gũi, không dùng từ ngữ
 4. "Just released": "[Tool] vừa ra tính năng mới..."
 5. Contrarian: "AI sẽ không thay thế bạn. Nhưng..."
 
+## Zalo Group: AI Long Best
+
+Chào mừng bạn vào group AI Long Best.
+
+### Group này dành cho ai muốn
+
+1. Học prompt thực dụng để tạo video và hình nhanh
+2. Học automation marketing: lên lịch, đăng bài, comment link, follow up
+3. Học Claude Code và IDE automation để làm việc nhanh và ít lỗi hơn
+4. Cập nhật use case và workflow dùng Veodeskop (all in one)
+
+### Bạn sẽ nhận được miễn phí trong group
+
+1. Prompt pack theo từng mục tiêu (bán hàng, giáo dục, kéo inbox)
+2. Template content 7 ngày và checklist text sạch
+3. Workflow mẫu OpenClaw x n8n x Google Sheet
+4. Case study và bản demo quy trình
+
+### Cách tham gia và hỏi để được trả lời nhanh
+
+1. Bạn đang làm ngành nào? (shop, creator, bds, marketing, dev)
+2. Mục tiêu của bạn là gì? (ra content đều, bán hàng, xây kênh, tự động hoá)
+3. Bạn muốn ưu tiên tool nào? (Veodeskop, Claude Code, automation)
+
+### Nội quy ngắn
+
+1. Không spam, không kéo sale lung tung
+2. Muốn share link thì ghi rõ giá trị và đúng chủ đề
+3. Tôn trọng nhau, hỏi thẳng, làm thật
+
+**Liên hệ:** Mọi chi tiết ib hoặc gọi 0903 469 888 (group Zalo AI Long Best).
+
 ## Files Location
 ```
 /Users/admin/automation/brands/LB CAMP/
